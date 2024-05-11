@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+#ticket {
+    margin: 0 auto;
+    width: 300px;
+}
+
+#ticketID {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#generateButton {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#generateButton:hover {
+    background-color: #555;
+}
